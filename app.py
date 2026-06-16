@@ -117,8 +117,8 @@ def load_model():
 # TAHAP 6 — HEADER APP
 # =====================================================
 
-st.title("🏎️ Pitwall AI")
-st.write("F1 Data Playground untuk analisis driver, constructor, dan prediksi finish Top 10.")
+st.title("BoxOne")
+st.write("F1 Data Analysis untuk analisis driver, constructor, dan prediksi finish Top 10.")
 
 f1, missing_files = load_data()
 
@@ -152,7 +152,7 @@ menu = st.sidebar.selectbox(
 )
 
 st.sidebar.divider()
-st.sidebar.caption("Project: Pitwall AI")
+st.sidebar.caption("Project: BoxOne")
 st.sidebar.caption("Data: Formula 1 Historical Dataset")
 
 
