@@ -12,8 +12,6 @@ Link aplikasi Streamlit:
 https://boxone-beta.streamlit.app/
 ```
 
-> Ganti link di atas dengan link Streamlit kamu setelah deploy berhasil.
-
 ---
 
 ## 📌 Fitur Project
