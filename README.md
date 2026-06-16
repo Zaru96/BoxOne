@@ -261,8 +261,6 @@ https://github.com/Zaru96
 ---
 
 ## 🏁 Penutup
-
-BoxOne dibuat sebagai project belajar data science dengan tema Formula 1.
 Project ini masih bisa dikembangkan lagi dengan fitur tambahan seperti:
 
 * Driver comparison
